@@ -30,14 +30,4 @@ Analyzing scatter plots and linear regression models provides actionable insight
 
 
 
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
