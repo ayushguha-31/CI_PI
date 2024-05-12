@@ -27,3 +27,17 @@ These insights are invaluable for various business decisions, including:
 ## Conclusion
 
 Analyzing scatter plots and linear regression models provides actionable insights that drive informed decision-making, ultimately enhancing business performance.
+
+
+
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
